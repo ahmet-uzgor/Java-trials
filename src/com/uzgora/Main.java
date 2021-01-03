@@ -12,7 +12,7 @@ public class Main {
         myArray[2] = 3;
         for (int i=0 ; i<2 ; i++){
             if( i%2 ==0){
-                System.out.println("The day is" + " :" + todayDate);
+                System.out.println("The day is " + " :" + todayDate);
                 System.out.println(myArray[2]);
             }else {
                 System.out.println("Ahmettt" + " " + myName.toUpperCase());
